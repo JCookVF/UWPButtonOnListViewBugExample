@@ -1,0 +1,1 @@
+D:\Projects\UWPButtonOnListViewBugExample\UWPButtonOnListViewBugExample\UWPButtonOnListViewBugExample\UWPButtonOnListViewBugExample.UWP\UWPButtonOnListViewBugExample.UWP.csproj;x86
